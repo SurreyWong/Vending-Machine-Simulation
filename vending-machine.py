@@ -17,7 +17,7 @@ class ListItems:
         "Energy Drink": 10.00,
     }
 
-# Programmer 1: Amgad Elrashid
+# Programmer 1:
 class VendingMachineNFA:
     """
     Implementation of a vending machine using Nondeterministic Finite Automaton (NFA) concepts.
